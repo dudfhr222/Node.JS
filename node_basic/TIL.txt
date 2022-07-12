@@ -1,0 +1,9 @@
+- client + server 작업 가능
+- NPM을 이용해 개발된 모듈 적용 가능
+
+1. Router
+2. Server side
+3. ejs
+4. express
+5. require - 모듈 사용
+6. DB Connection
